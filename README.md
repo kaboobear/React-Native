@@ -22,11 +22,11 @@
 
 <hr>
 
-![Layout](kaboo3.png)
+![Layout](kaboo3.jpg)
 
 <br>
 
-![Layout](kaboo4.png)
+![Layout](kaboo4.jpg)
 
 <br>
 
